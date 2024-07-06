@@ -3,7 +3,7 @@
 
     "description" : "",
 
-    "imageLocation" : "C:\\Projects\\UniFiles\\UniFiles\\Intro to Programming\\MiniProject\\MazeImages\\CheveningHouse.png",
+    "imageLocation" : ".\\MazeImages\\CheveningHouse.png",
 
     "mazeHorizontal" : [[11, 1, 11, 0],
                         [1, 9, 3, 9, 1, 1],

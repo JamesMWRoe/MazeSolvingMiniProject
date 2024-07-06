@@ -3,7 +3,7 @@
 
     "description" : "",
 
-    "imageLocation" : "C:\\Projects\\UniFiles\\UniFiles\\Intro to Programming\\MiniProject\\MazeImages\\HamptonCourt.png",
+    "imageLocation" : ".\\MazeImages\\HamptonCourt.png",
 
     "mazeHorizontal" : [[9, 1, 9, 0],
                         [1, 18, 1],

@@ -3,7 +3,7 @@
 
     "description" : "A maze consisting of a singular room. This maze is trivial, and in some sense may not be considered a maze but is a good test case for checking the validity of the software",
 
-    "imageLocation" : "C:\\Projects\\UniFiles\\UniFiles\\Intro to Programming\\MiniProject\\MazeImages\\MazeIconPlaceholder.jpg",
+    "imageLocation" : ".\\MazeImages\\MazeIconPlaceholder.jpg",
 
     "mazeHorizontal" : [[5, 0],
                         [5, 1],
