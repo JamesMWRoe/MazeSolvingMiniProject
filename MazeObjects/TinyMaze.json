@@ -1,0 +1,25 @@
+{
+    "name" : "Tiny Maze",
+
+    "description" : "",
+
+    "imageLocation" : "C:\\Projects\\UniFiles\\UniFiles\\Intro to Programming\\MiniProject\\MazeImages\\Tiny.png",
+
+    "mazeHorizontal" : [[2, 1, 2, 0],
+                        [2, 2, 1, 1],
+                        [1, 2, 2, 1],
+                        [3, 1, 1, 1],
+                        [2, 2, 1, 1],
+                        [2, 1, 2, 0]],
+
+    "mazeVertical" : [[5, 0],
+                      [1, 4, 1],
+                      [3, 1, 1, 1],
+                      [2, 1, 1, 1, 1],
+                      [1, 2, 2, 1],
+                      [5, 0]],
+
+    "start node" : 2,
+
+    "end node" : 22
+}
